@@ -1,5 +1,5 @@
 var fs = require('fs-extra');
-var twigger = require('./lib/twig-compiler');
+var twigger = require('pattern-importer').twigCompiler;
 
 function patternsMenu (src, filePath, destFile) {
   var obj = JSON.parse(fs.readFileSync(filePath, 'utf8')); // want a json object
