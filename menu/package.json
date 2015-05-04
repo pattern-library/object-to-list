@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^0.18.2",
+    "pattern-importer": "0.0.1",
     "twig": "^0.8.2"
   }
 }
