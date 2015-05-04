@@ -1,6 +1,0 @@
-name: Menu
-description: Computer code in text
-twig: ./menu.twig
-sass: ./menu.scss
-category: components
-data:
