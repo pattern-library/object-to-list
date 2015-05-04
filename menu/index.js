@@ -1,4 +1,4 @@
-var fs =require('fs');
+var fs = require('fs-extra');
 var twigger = require('./lib/twig-compiler');
 
 function patternsMenu (src, filePath, destFile) {
