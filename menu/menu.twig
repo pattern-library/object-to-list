@@ -16,11 +16,8 @@
             {% endif %}
           {% endfor %}
         {% endif %}
-
         {% for item in value.patterns %}
-         
-            <li><a href="{{item.url}}">{{item.name}}</a></li>
-       
+          <li><a href="{{item.url}}">{{item.name}}</a></li>
         {% endfor %}
         </ul></li>
       {% endif %}
