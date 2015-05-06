@@ -1,5 +1,5 @@
 {
-  "name": "twig-menu",
+  "name": "object-to-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^0.18.2",
-    "pattern-importer": "0.0.1",
+    "pattern-importer": "^0.0.2",
     "twig": "^0.8.2"
   }
 }
