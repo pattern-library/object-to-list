@@ -7,7 +7,7 @@ To create a list from an object
 
 ## Usage
 
-in local index.js file, require the following:
+In local index.js file, require the following:
 
 ```
 var menuLister = require('./object-to-list');
